@@ -1,0 +1,79 @@
+body{
+     background-color:  black;
+     font-family:sans-serif;
+
+}
+
+nav{
+    background-color: #836fff;
+    border-radius:  24px;
+    padding: 16px;
+}
+nav a{
+    margin: 16px;
+    padding: 8px;
+    border-radius: 4px;
+    background-color: #FABD72;
+    text-decoration: none;
+}
+
+nav a{
+    background-color: #E9967A;
+    transitIon: 0.5s;
+}
+
+div{ background-color: #6495ed;
+     
+}
+
+.sobre{
+    background-color: greenyellow;
+    color:aqua
+}
+
+.sobre div{
+    background-color: red
+}
+
+.principal,
+.principal div{ 
+    background-color: #ba5503;
+    font-size: 18px;
+    color:white;
+    padding-left: 12px;
+    text-align: center;
+    border-radius: 2px;
+}
+
+.principal a{
+  color:white;
+  text-decoration: none;
+  background-color:#DDA0DD;
+  margin: 8px;
+  padding: 0 12px;
+  border-radius: 12px
+}
+
+.principal a:houver{
+    background-color: #A020F0;
+    transition:0.5s;
+}
+
+    
+.img-perfil{
+    width: 125px;
+    border: 4px rgb(75,70,70) solid;
+    border-radius: 12px 4px;
+    margin-left: 46px ;
+    border-radius: 12px 4px;
+}
+nav a:houver{
+    background-color:#FABD72;
+    transition: 0.5s;
+
+}
+.descricao{color: #4a5c5c;
+}
+
+.tecnologia{color:white
+}
